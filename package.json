@@ -1,0 +1,18 @@
+{
+  "name": "study_module_230314",
+  "version": "1.0.0",
+  "description": "\"연습\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "\"연습\""
+  ],
+  "author": "\"나\"",
+  "license": "ISC",
+  "dependencies": {
+    "movier": "^3.0.0",
+    "pokemon": "^2.3.4"
+  }
+}
